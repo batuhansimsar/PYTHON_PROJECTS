@@ -1,2 +1,2 @@
 # PYTHON_PROJECTS
-python_projects
+Yazdığım birtakım python projeleri
